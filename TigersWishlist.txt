@@ -37,6 +37,9 @@ dimwishlist:item=1399109800&perks=2801223209,3429800428,3523746922,1551736345#no
 
 dimwishlist:item=232928045&perks=2801223209,16392701,3523746922,1551736345#notes:Craftable masterwork draw time mod major spec
 
+//whistlers
+dimwishlist:item=1574601402&perks=1196733167,3827198035,588594999,1015611457#notes:masterwork draw time mod?
+
 //end of Bows
 
 //Fusion rifles
@@ -52,6 +55,9 @@ dimwishlist:item=3969066556&perks=839105230,689005463,3108830275,1427256713#note
 
 //Epicurean
 dimwishlist:item=2263839058&perks=839105230,689005463,4116820839,509594246#notes:PVP Craftable masterwork range mod counterbalance stock
+
+//burden of guilt
+dimwishlist:item=933455006&perks=1840239774,2969185026,1428297954,2978966579#notes:Craftable masterwork range mod counterbalance stock
 
 
 //end of Fusion rifles
@@ -187,6 +193,9 @@ dimwishlist:item=297296830&perks=839105230,1968497646,1658784563,3431277734#note
 //tarnished mettle
 dimwishlist:item=2218569744&perks=839105230,3142289711,1906147653,1720528630#notes:Craftable masterwork range mod full auto
 
+//aishas embrace
+dimwishlist:item=2638190703&perks=839105230,3230963543,3400784728,1354429876#notes:masterwork range mod counterbalance
+
 //end of Scout Rifles
 
 //Shotguns
@@ -206,6 +215,9 @@ dimwishlist:item=1679868061&perks=4090651448,791862061,3161816588,47981717#notes
 //without remorse
 dimwishlist:item=1478986057&perks=1332244541,3142289711,2139363611,2675184851#notes:Craftable masterwork range mod major spec
 
+//Inquisitor
+dimwishlist:item=2185327324&perks=1467527085,3142289711,972757866,11612903#notes:masterwork range mod targeting adjuster
+
 //end of Shotguns
 
 //Sidearms
@@ -218,6 +230,9 @@ dimwishlist:item=1298815317&perks=839105230,3142289711,2014892510,1720528630#not
 
 //drang
 dimwishlist:item=502356570&perks=839105230,3142289711,3592538738,4293542123#notes:Craftable masterwork range mod full auto
+
+//forgiveness
+dimwishlist:item=2345794502&perks=1840239774,1885400500,3523296417,247725512#notes:masterwork reload speed mod full auto
 
 // end of Sidearms
 
