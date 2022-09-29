@@ -21,6 +21,7 @@ dimwishlist:item=2778013407&perks=839105230,1885400500,1354429876,1774574192#not
 
 //Ammit
 dimwishlist:item=2119346509&perks=839105230,1885400500,1583705720,4293542123#notes:Craftable masterwork relod speed mod minor spec
+dimwishlist:item=2119346509&perks=839105230,1885400500,1409206216,2675184851
 
 //Come to pass
 dimwishlist:item=927567426&perks=839105230,3142289711,2014892510,4290541820#notes:Craftable masterwork stability mod minor spec
