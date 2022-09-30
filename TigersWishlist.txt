@@ -300,6 +300,7 @@ dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337#note
 
 //fatebringer
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,3824105627#notes:masterwork range mod minor spec
+dimwishlist:item=2171478765&perks=,3038247973,3824105627#notes:last 2 perks
 
 //judgement
 dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,1954620775#notes:masterwork range mod minor spec
@@ -351,6 +352,7 @@ dimwishlist:item=1835747805&perks=1926090094,3142289711,1820235745,2848615171#no
 
 //posterity
 dimwishlist:item=3281285075&perks=4090651448,3142289711,1523832109,3425386926#notes:masterwork range mod backup mag
+dimwishlist:item=3281285075&perks=,1523832109,3425386926#notes:last 2 perks
 
 //palindrome
 dimwishlist:item=432476743&perks=3250034553,1885400500,706527188,2846385770#notes:PVP masterwork range mod icarus
@@ -413,9 +415,11 @@ dimwishlist:item=1967303408&perks=839105230,3142289711,2846385770,3425386926#not
 
 //commemoration
 dimwishlist:item=4230965989&perks=839105230,3142289711,1523832109,3425386926#notes:masterwork range mod backup mag
+dimwishlist:item=4230965989&perks=,1523832109,3425386926#notes:last 2 perks
 
 //corrective measure
 dimwishlist:item=471518543&perks=839105230,3142289711,3418782618,3824105627#notes:masterwork range mod backup mag
+dimwishlist:item=471518543&perks=,3418782618,3824105627#notes:last 2 perks
 
 //seventh seraph
 dimwishlist:item=2582755344&perks=839105230,1885400500,2284787283,1771339417#notes:masterwork reload speed mod boss spec
@@ -530,6 +534,7 @@ dimwishlist:item=3067821200&perks=1478423395,3796465595,951095735,3927722942#not
 
 //hezen vengeance
 dimwishlist:item=4050645223&perks=1478423395,3796465595,3977735242,3927722942#notes:masterwork blast radius mod boss spec
+dimwishlist:item=4050645223&perks=,3977735242,3927722942#notes:last 2 perks
 
 //hoosegow
 dimwishlist:item=3669616453&perks=1478423395,3796465595,3977735242,1275731761#notes:masterwork blast radius mod boss spec
@@ -602,9 +607,11 @@ dimwishlist:item=4019668921&perks=839105230,3142289711,3400784728,4293542123#not
 
 //trustee
 dimwishlist:item=1392919471&perks=839105230,3142289711,1523832109,3201496230#notes:masterwork range mod major spec
+dimwishlist:item=1392919471&perks=,1523832109,3201496230#notes:last 2 perks
 
 //vision of confluence
 dimwishlist:item=3186018373&perks=839105230,1885400500,3418782618,3824105627#notes:masterwork range mod full auto
+dimwishlist:item=3186018373&perks=,3418782618,3824105627#notes:last 2 perks
 
 //vouchsafe
 dimwishlist:item=3242168339&perks=839105230,3142289711,247725512,2848615171#notes:masterwork range mod full auto
@@ -642,6 +649,7 @@ dimwishlist:item=3184681056&perks=1332244541,3142289711,706527188,47981717#notes
 
 //heritage
 dimwishlist:item=4248569242&perks=3250034553,791862061,1523832109,469285294#notes:masterwork range mod boss spec
+dimwishlist:item=4248569242&perks=,1523832109,469285294#notes:last 2 perks
 
 //one small step
 dimwishlist:item=1016668089&perks=1332244541,106909392,3300816228,2679249093#notes:masterwork range mod major spec
@@ -666,6 +674,7 @@ dimwishlist:item=3616586446&perks=1840239774,791862061,3300816228,1546637391#not
 
 //found verdict
 dimwishlist:item=3197270240&perks=1332244541,791862061,3418782618,4104185692#notes:masterwork range mod major spec
+dimwishlist:item=3197270240&perks=,3418782618,4104185692#notes:last 2 perks
 
 //ikelos
 dimwishlist:item=1096206669&perks=4090651448,106909392,2779035018,2360754333#notes:masterwork range mod major spec
@@ -792,6 +801,7 @@ dimwishlist:item=3745990145&perks=893526894,3142289711,247725512,3400784728#note
 
 //praedyths
 dimwishlist:item=3653573172&perks=839105230,3142289711,3418782618,3824105627#notes:masterwork range mod boss spec
+dimwishlist:item=3653573172&perks=,3418782618,3824105627#notes:last 2 perks
 
 //shepherds
 dimwishlist:item=3743729616&perks=839105230,3142289711,588594999,957782887#notes:PVP masterwork range mod targeting adjuster
@@ -802,6 +812,7 @@ dimwishlist:item=3355385170&perks=839105230,1885400500,957782887,47981717#notes:
 
 //succession
 dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391#notes:masterwork range mod boss spec
+dimwishlist:item=2990047042&perks=,1523832109,1546637391#notes:last 2 perks
 
 //supremacy
 dimwishlist:item=686951703&perks=839105230,1087426260,3096702027,3400784728#notes:masterwork range mod boss spec
@@ -940,7 +951,7 @@ dimwishlist:item=1644160541&perks=436053704,52780822,1749209109,3913600130#notes
 
 //bequest
 dimwishlist:item=3366545721&perks=436053704,52780822,1749209109,3708227201#notes:masterwork impact mod boss spec
-
+dimwishlist:item=3366545721&perks=,1749209109,3708227201#notes:last 2 perks
 //falling guyillotine
 dimwishlist:item=614426548&perks=3666208348,269888150,1749209109,3913600130#notes:masterwork impact mod boss spec
 
