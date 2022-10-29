@@ -18,31 +18,31 @@ dimwishlist:item=46524085&perks=1482024992,3142289711,4015745376,1067908860
 
 //firefright
 dimwishlist:item=2778013407&perks=839105230,1885400500,1354429876,1774574192#notes:Craftable masterwork range mod backup mag
-dimwishlist:item=2778013407&perks=1354429876,1774574192#notes:baby version
+dimwishlist:item=2778013407&perks=,1354429876,1774574192#notes:baby version
 
 //Ammit
 dimwishlist:item=2119346509&perks=839105230,1885400500,1583705720,4293542123#notes:Craftable masterwork relod speed mod minor spec
-dimwishlist:item=2119346509&perks=1583705720,4293542123#notes:baby version
+dimwishlist:item=2119346509&perks=,1583705720,4293542123#notes:baby version
 
 //Come to pass
 dimwishlist:item=927567426&perks=839105230,3142289711,1428297954,2610012052#notes:Craftable masterwork stability mod minor spec
-dimwishlist:item=927567426&perks=1428297954,2610012052#notes:baby version
+dimwishlist:item=927567426&perks=,1428297954,2610012052#notes:baby version
 
 //Sweet sorrow
 dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,4049631843#notes:Craftable masterwork handling mod minor spec
-dimwishlist:item=1248372789&perks=3400784728,4049631843#notes:baby version
+dimwishlist:item=1248372789&perks=,3400784728,4049631843#notes:baby version
 
 //braytech werewolf
 dimwishlist:item=2869466318&perks=839105230,1885400500,691659142,4082225868#notes:masterwork range mod minor spec
-dimwishlist:item=2869466318&perks=691659142,4082225868#notes:baby version
+dimwishlist:item=2869466318&perks=,691659142,4082225868#notes:baby version
 dimwishlist:item=2869466318&perks=839105230,1885400500,1820235745,1774574192#notes:masterwork range mod minor spec
-dimwishlist:item=2869466318&perks=1820235745,1774574192#notes:baby version
+dimwishlist:item=2869466318&perks=,1820235745,1774574192#notes:baby version
 
 //chroma rush
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1820235745,3425386926#notes:masterwork reload speed mod minor spec
-dimwishlist:item=1119734784&perks=1820235745,3425386926#notes:baby version
+dimwishlist:item=1119734784&perks=,1820235745,3425386926#notes:baby version
 dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,3592538738#notes:masterwork range mod minor spec
-dimwishlist:item=1119734784&perks=2779035018,3592538738#notes:baby version
+dimwishlist:item=1119734784&perks=,2779035018,3592538738#notes:baby version
 
 //duty bound
 dimwishlist:item=435216110&perks=839105230,2420895100,3400784728,1354429876#notes:masterwork range mod backup mag
@@ -62,29 +62,29 @@ dimwishlist:item=1788603939&perks=,1820235745,3523296417#notes:baby version
 
 //krait
 dimwishlist:item=2852052802&perks=839105230,2420895100,1820235745,124408337#notes:masterwork handling mod backup mag
-dimwishlist:item=2852052802&perks=1820235745,124408337#notes:baby version
+dimwishlist:item=2852052802&perks=,1820235745,124408337#notes:baby version
 dimwishlist:item=2852052802&perks=839105230,1885400500,1583705720,124408337#notes:masterwork handling mod backup mag
-dimwishlist:item=2852052802&perks=1583705720,124408337#notes:baby version
+dimwishlist:item=2852052802&perks=,1583705720,124408337#notes:baby version
 
 //scathlocke
 dimwishlist:item=602618796&perks=839105230,3142289711,1820235745,3425386926#notes:masterwork range mod backup mag
-dimwishlist:item=602618796&perks=1820235745,3425386926#notes:baby version
+dimwishlist:item=602618796&perks=,1820235745,3425386926#notes:baby version
 dimwishlist:item=602618796&perks=839105230,3142289711,1820235745,1774574192#notes:masterwork range mod backup mag
-dimwishlist:item=602618796&perks=1820235745,1774574192#notes:baby version
+dimwishlist:item=602618796&perks=,1820235745,1774574192#notes:baby version
 
 //seventh seraph
 dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,1546637391#notes:masterwork stability mod major spec
-dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:baby version
+dimwishlist:item=1561006927&perks=,3300816228,1546637391#notes:baby version
 dimwishlist:item=1561006927&perks=839105230,1885400500,4071163871,4082225868#notes:masterwork stability mod minoe spec
-dimwishlist:item=1561006927&perks=4071163871,4082225868#notes:baby version
+dimwishlist:item=1561006927&perks=,4071163871,4082225868#notes:baby version
 
 //last breath
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,4104185692#notes:masterwork range mod counter balance
-dimwishlist:item=507038823&perks=3523296417,4104185692#notes:baby version
+dimwishlist:item=507038823&perks=,3523296417,4104185692#notes:baby version
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903#notes:masterwork range mod counter balance
-dimwishlist:item=507038823&perks=3523296417,11612903#notes:baby version
+dimwishlist:item=507038823&perks=,3523296417,11612903#notes:baby version
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,1774574192#notes:masterwork range mod counter balance
-dimwishlist:item=507038823&perks=3523296417,1774574192#notes:baby version
+dimwishlist:item=507038823&perks=,3523296417,1774574192#notes:baby version
 
 //tigerspite
 dimwishlist:item=640114618&perks=839105230,1885400500,1168162263,1015611457#notes:masterwork range mod backup mag
@@ -149,9 +149,9 @@ dimwishlist:item=1907698332&perks=,1428297954,3425386926#notes:baby version
 
 //horror story
 dimwishlist:item=3829285960&perks=2405638014,3230963543,1820235745,3523296417#notes:masterwork reload speed mod minor spec
-dimwishlist:item=3829285960&perks=1820235745,3523296417#notes:baby version
+dimwishlist:item=3829285960&perks=,1820235745,3523296417#notes:baby version
 dimwishlist:item=3829285960&perks=2405638014,3230963543,1820235745,1774574192#notes:masterwork reload speed mod minor spec
-dimwishlist:item=3829285960&perks=1820235745,1774574192#notes:baby version
+dimwishlist:item=3829285960&perks=,1820235745,1774574192#notes:baby version
 
 //end of Auto rifles
 
@@ -257,42 +257,58 @@ dimwishlist:item=2481881293&perks=,1631667848,4082225868#notes:baby version
 
 //coriolis
 dimwishlist:item=3512349612&perks=4090651448,1687452232,2779035018,2726471870#notes:masterwork range mod major spec
+dimwishlist:item=3512349612&perks=,2779035018,2726471870#notes:baby version
 
 //dream breaker
 dimwishlist:item=2931957300&perks=4090651448,3868766766,1645158859,2213355989#notes:PVP masterwork range mod counterbalance stock
+dimwishlist:item=2931957300&perks=,1645158859,2213355989#notes:PVP baby version
 
 //glacioclasm
 dimwishlist:item=1030895163&perks=839105230,1687452232,1820235745,1427256713#notes:masterwork range mod major spec
 
 //hollow words
 dimwishlist:item=607191995&perks=839105230,1687452232,1556840489,1546637391#notes:masterwork range mod major spec
+dimwishlist:item=607191995&perks=,1556840489,1546637391#notes:baby version
 
 //iota
 dimwishlist:item=3044460004&perks=839105230,2969185026,1645158859,2213355989#notes:PVP masterwork charge time mod quick access
+dimwishlist:item=3044460004&perks=,1645158859,2213355989#notes:PVP baby version
+dimwishlist:item=3044460004&perks=839105230,689005463,2779035018,4104185692#notes:masterwork charge time mod major spec
+dimwishlist:item=3044460004&perks=,2779035018,4104185692#notes:baby version
 
 //main ingredient
 dimwishlist:item=253196586&perks=2405638014,2969185026,1645158859,1890422124#notes:PVP masterwork stability mod counter balance
+dimwishlist:item=253196586&perks=,1645158859,1890422124#notes:PVP baby version
 
 //plug one
 dimwishlist:item=1289000550&perks=839105230,1687452232,2779035018,1427256713#notes:masterwork range mod major spec
+dimwishlist:item=1289000550&perks=,2779035018,1427256713#notes:baby version
 
 //snorri
 dimwishlist:item=4114929480&perks=839105230,1687452232,671806388,1427256713#notes:masterwork range mod major spec
+dimwishlist:item=4114929480&perks=,671806388,1427256713#notes:baby version
 
 //techeun force
 dimwishlist:item=4094657108&perks=839105230,1687452232,1015611457,3425386926#notes:masterwork range mod counterbalance stock
+dimwishlist:item=4094657108&perks=,1015611457,3425386926#notes:baby version
 
 //wizened rebuke
 dimwishlist:item=1999697514&perks=839105230,689005463,1645158859,11551321#notes:PVP masterwork stability mod?
+dimwishlist:item=1999697514&perks=,1645158859,11551321#notes:PVP baby version
 
 //timelines
 dimwishlist:item=3055192515&perks=194952923,1687452232,3300816228,3523296417#notes:masterwork range mod counter balance
+dimwishlist:item=3055192515&perks=,3300816228,3523296417#notes:baby version
 
 //trinary
 dimwishlist:item=3258665412&perks=839105230,2680121939,1631667848,4082225868#notes:masterwork range mod counterbalance stock
+dimwishlist:item=3258665412&perks=,1631667848,4082225868#notes:baby version
+dimwishlist:item=3258665412&perks=839105230,2680121939,2779035018,3523296417#notes:masterwork range mod counterbalance stock
+dimwishlist:item=3258665412&perks=,2779035018,3523296417#notes:baby version
 
 //zealots reward
 dimwishlist:item=2209003210&perks=839105230,1687452232,2779035018,3425386926#notes:masterwork range mod major spec
+dimwishlist:item=2209003210&perks=,2779035018,3425386926#notes:baby version
 
 //end of Fusion rifles
 
@@ -300,13 +316,15 @@ dimwishlist:item=2209003210&perks=839105230,1687452232,2779035018,3425386926#not
 
 //Lubraes
 dimwishlist:item=2534546147&perks=1263609309,3142289711,1631667848,4082225868#notes:Craftable masterwork shield duration mod major spec
-dimwishlist:item=2534546147&perks=,1631667848,4082225868#notes:till craftable
+dimwishlist:item=2534546147&perks=,1631667848,4082225868#notes:baby version
 
 //nezarecs
 dimwishlist:item=254636484&perks=1263609309,1431678320,951095735,1546637391#notes:Craftable masterwork range mod major spec
+dimwishlist:item=254636484&perks=,951095735,1546637391#notes:baby version
 
 //enigma
 dimwishlist:item=2595497736&perks=1263609309,679225683,951095735,4104185692#notes:Craftable masterwork range mod major spec
+dimwishlist:item=2595497736&perks=,951095735,4104185692#notes:baby version
 
 // end of glaives
 
@@ -314,33 +332,47 @@ dimwishlist:item=2595497736&perks=1263609309,679225683,951095735,4104185692#note
 
 //tarnation
 dimwishlist:item=2721157927&perks=1478423395,3301904089,2284787283,2396489472#notes:Craftable masterwork reload speed mod backup mag
+dimwishlist:item=2721157927&perks=,2284787283,2396489472#notes:baby version
 
 //berengers
 dimwishlist:item=407621213&perks=1478423395,3301904089,2284787283,3425386926#notes:masterwork velocity mod boss spec
+dimwishlist:item=407621213&perks=,2284787283,3425386926#notes:baby version
 
 //blast battue
 dimwishlist:item=2453357042&perks=3798852852,3301904089,2284787283,2396489472#notes:masterwork blast radius mod boss spec
+dimwishlist:item=2453357042&perks=,2284787283,2396489472#notes:baby version
 
 //canis major
 dimwishlist:item=2066434718&perks=1478423395,3301904089,2284787283,2396489472#notes:masterwork blast radius mod boss spec
+dimwishlist:item=2066434718&perks=,2284787283,2396489472#notes:baby version
 
 //crowd pleaser
 dimwishlist:item=3565520715&perks=1478423395,3301904089,2010801679,2396489472#notes:masterwork blast radius mod backup mag
+dimwishlist:item=3565520715&perks=,2010801679,2396489472
 
 //interference
 dimwishlist:item=2257180473&perks=981914802,3301904089,2284787283,2888557110#notes:masterwork velocity mod boss spec
+dimwishlist:item=2257180473&perks=,2284787283,2888557110#notes:baby version
 
 //love and death
 dimwishlist:item=3690523502&perks=1478423395,3301904089,2284787283,2396489472#notes:masterwork blast radius mod boss spec
+dimwishlist:item=3690523502&perks=,2284787283,2396489472#notes:baby version
 
 //memory interdict
 dimwishlist:item=3165547384&perks=1478423395,3301904089,951095735,2396489472#notes:masterwork blast radius mod boss spec
+dimwishlist:item=3165547384&perks=,951095735,2396489472#notes:baby version
+dimwishlist:item=3165547384&perks=1478423395,3301904089,2284787283,2396489472#notes:masterwork blast radius mod boss spec
+dimwishlist:item=3165547384&perks=,2284787283,2396489472#notes:baby version
 
 //outrageous
 dimwishlist:item=4146702548&perks=1478423395,3301904089,2846385770,3425386926#notes:masterwork blast radius mod boss spec
+dimwishlist:item=4146702548&perks=,2846385770,3425386926#notes:baby version
 
 //typhon
 dimwishlist:item=3568377122&perks=1478423395,3301904089,3523296417,2978966579#notes:masterwork blast radius mod boss spec
+dimwishlist:item=3568377122&perks=,3523296417,2978966579#notes:baby version
+dimwishlist:item=3568377122&perks=1478423395,3301904089,3108830275,2978966579#notes:masterwork blast radius mod boss spec
+dimwishlist:item=3568377122&perks=,3108830275,2978966579#notes:baby version
 
 //end of heavy granade launchers
 
@@ -348,32 +380,51 @@ dimwishlist:item=3568377122&perks=1478423395,3301904089,3523296417,2978966579#no
 
 //Pardon our dust
 dimwishlist:item=3849810018&perks=1478423395,3032599245,3300816228,1546637391#notes:Craftable Blinding masterwork velocity mod major spec
+dimwishlist:item=3849810018&perks=,3300816228,1546637391#notes:baby version
 dimwishlist:item=3849810018&perks=1478423395,3301904089,3300816228,1546637391#notes:Craftable Spike masterwork velocity mod major spec
+dimwishlist:item=3849810018&perks=,3300816228,1546637391#notes:baby version
+dimwishlist:item=3849810018&perks=1478423395,3301904089,3300816228,3523296417#notes:Craftable demo masterwork velocity mod major spec
+dimwishlist:item=3849810018&perks=,3300816228,3523296417#notes:baby version
 
 //personality
 dimwishlist:item=4096943616&perks=3525010810,2822142346,3300816228,1683379515#notes:Craftable masterwork velocity mod major spec
+dimwishlist:item=4096943616&perks=,3300816228,1683379515#notes:baby version
 
 //forbearance
 dimwishlist:item=613334176&perks=3525010810,2822142346,2010801679,2396489472#notes:Craftable masterwork velocity mod major spec
-dimwishlist:item=613334176&perks=,2010801679,2396489472#notes:untill craftable
+dimwishlist:item=613334176&perks=,2010801679,2396489472#notes:baby version
+dimwishlist:item=613334176&perks=3525010810,2822142346,3108830275,2396489472#notes:Craftable masterwork velocity mod major spec
+dimwishlist:item=613334176&perks=,3108830275,2396489472#notes:baby version
 
 //igntion code
 dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,1546637391#notes:masterwork velocity mod major spec
+dimwishlist:item=304659313&perks=,3161816588,1546637391#notes:baby version
+dimwishlist:item=304659313&perks=981914802,3032599245,2010801679,3523296417#notes:masterwork velocity mod major spec
+dimwishlist:item=304659313&perks=,2010801679,3523296417#notes:baby version
+dimwishlist:item=304659313&perks=981914802,3032599245,3161816588,3523296417#notes:masterwork velocity mod major spec
+dimwishlist:item=304659313&perks=,3161816588,3523296417#notes:baby version
 
 //lingering dread
 dimwishlist:item=2026087437&perks=3525010810,3032599245,2010801679,2978966579#notes:masterwork velocity mod major spec
+dimwishlist:item=2026087437&perks=,2010801679,2978966579#notes:baby version
 
 //militias
 dimwishlist:item=40394833&perks=3525010810,3032599245,2039302152,3300816228#notes:masterwork velocity mod major spec
+dimwishlist:item=40394833&perks=,2039302152,3300816228#notes:baby version
+dimwishlist:item=40394833&perks=3525010810,3301904089,1631667848,4082225868#notes:masterwork velocity mod major spec
+dimwishlist:item=40394833&perks=,1631667848,4082225868#notes:baby version
 
 //deafening whisper
 dimwishlist:item=981718087&perks=3525010810,2822142346,2010801679,3592538738#notes:masterwork velocity mod major spec
+dimwishlist:item=981718087&perks=,2010801679,3592538738#notes:baby version
 
 //empty vessel
 dimwishlist:item=4255586669&perks=3525010810,3301904089,2010801679,3523296417#notes:masterwork velocity mod major spec
+dimwishlist:item=4255586669&perks=,2010801679,3523296417
 
 //truthteller
 dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,1683379515#notes:masterwork velocity mod major spec
+dimwishlist:item=1946491241&perks=,3300816228,1683379515#notes:baby version
 
 //end of special granade launchers
 
@@ -381,54 +432,75 @@ dimwishlist:item=1946491241&perks=981914802,3032599245,3300816228,1683379515#not
 
 //Austringer
 dimwishlist:item=3055790362&perks=3661387068,1885400500,3719974635,509594246#notes:PVP Craftable masterwork range mod targeting adjuster
+dimwishlist:item=3055790362&perks=,3719974635,509594246#notes:baby version
 dimwishlist:item=3055790362&perks=3661387068,1885400500,1168162263,3425386926#notes:Craftable masterwork range mod minor spec
+dimwishlist:item=3055790362&perks=,1168162263,3425386926#notes:baby version
 
 //Pure poetry
 dimwishlist:item=2671639706&perks=839105230,1885400500,744594675,4082225868#notes:PVP masterwork range mod targeting adjuster
+dimwishlist:item=2671639706&perks=,744594675,4082225868
 
 //zaoulis
 dimwishlist:item=431721920&perks=839105230,3142289711,3038247973,4293542123#notes:Craftable masterwork range mod minor spec
-dimwishlist:item=431721920&perks=,3038247973,4293542123#notes:untill craftable
+dimwishlist:item=431721920&perks=,3038247973,4293542123#notes:baby version
 
 //dfa
 dimwishlist:item=575830664&perks=839105230,3142289711,3400784728,1954620775#notes:masterwork range mod backup mag
+dimwishlist:item=575830664&perks=,3400784728,1954620775#notes:baby version
 
 //dire promise
-dimwishlist:item=2742838701&perks=1926090094,1561002382,47981717,2846385770#notes:PVP masterwork range mod icarus
+dimwishlist:item=2742838701&perks=1926090093,1885400500,3400784728,1774574192#notes:masterwork range mod minor spec
+dimwishlist:item=2742838701&perks=,3400784728,1774574192#notes:baby version
 
 //eyasluna
 dimwishlist:item=235827225&perks=1926090094,1885400500,1168162263,124408337#notes:masterwork range mod minor spec
+dimwishlist:item=235827225&perks=,1168162263,124408337#notes:baby version
+dimwishlist:item=235827225&perks=1926090094,1885400500,3108830275,124408337#notes:masterwork range mod minor spec
+dimwishlist:item=235827225&perks=,3108830275,124408337#notes:baby version
 
 //fatebringer
 dimwishlist:item=2171478765&perks=4090651448,3142289711,3038247973,3824105627#notes:masterwork range mod minor spec
-dimwishlist:item=2171478765&perks=,3038247973,3824105627#notes:last 2 perks
+dimwishlist:item=2171478765&perks=,3038247973,3824105627#notes:baby version
 
 //judgement
 dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,1954620775#notes:masterwork range mod minor spec
+dimwishlist:item=1476654960&perks=,3523296417,1954620775#notes:baby version
+dimwishlist:item=1476654960&perks=1926090094,3142289711,3523296417,1774574192#notes:masterwork range mod minor spec
+dimwishlist:item=1476654960&perks=,3523296417,1774574192#notes:baby version
 
 //loud lullaby
 dimwishlist:item=3924212056&perks=4090651448,3142289711,1820235745,1774574192#notes:masterwork range mod minor spec
+dimwishlist:item=3924212056&perks=,1820235745,1774574192#notes:baby version
+dimwishlist:item=3924212056&perks=4090651448,3142289711,1820235745,3038247973#notes:masterwork range mod minor spec
+dimwishlist:item=3924212056&perks=,1820235745,3038247973#notes:baby version
 
 //seventh seraph
 dimwishlist:item=3037520408&perks=839105230,106909392,2010801679,1954620775#notes:masterwork range mod minor spec
+dimwishlist:item=3037520408&perks=,2010801679,1954620775#notes:baby version
 
 //survivors
 dimwishlist:item=310708513&perks=839105230,1885400500,247725512,1015611457#notes:PVP masterwork range mod targeting adjuster
+dimwishlist:item=310708513&perks=,247725512,1015611457#notes:PVP baby version
 
 //true prophecy
-dimwishlist:item=2742838700&perks=1926090094,3142289711,3643424744,3038247973#notes:masterwork stability mod minor spec
+dimwishlist:item=2742838700&perks=1926090094,3142289711,1631667848,3038247973#notes:masterwork stability mod minor spec
+dimwishlist:item=2742838700&perks=,1631667848,3038247973#notes:baby version
 
 //vulpecula
 dimwishlist:item=1622998472&perks=4090651448,3142289711,1168162263,124408337#notes:masterwork range mod backup mag
+dimwishlist:item=1622998472&perks=,1168162263,124408337#notes:baby version
 
 //ancient gospel
 dimwishlist:item=48643186&perks=4090651448,3142289711,247725512,2848615171#notes:masterwork range mod dragonfly spec
+dimwishlist:item=48643186&perks=,247725512,2848615171#notes:baby version
 
 //annual skate
 dimwishlist:item=6857689&perks=1926090094,3142289711,1168162263,1954620775#notes:masterwork range mod backup mag
+dimwishlist:item=6857689&perks=,1168162263,1954620775#notes:baby version
 
 //bottom dollar
 dimwishlist:item=1046651176&perks=839105230,3142289711,247725512,2848615171#notes:masterwork stability mod dragonfly spec
+dimwishlist:item=1046651176&perks=,247725512,2848615171#notes:baby version
 
 //cantata
 dimwishlist:item=372697604&perks=839105230,3142289711,247725512,1954620775#notes:masterwork range mod backup mag
