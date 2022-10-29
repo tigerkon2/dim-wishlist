@@ -18,15 +18,19 @@ dimwishlist:item=46524085&perks=1482024992,3142289711,4015745376,1067908860
 
 //firefright
 dimwishlist:item=2778013407&perks=839105230,1885400500,1354429876,1774574192#notes:Craftable masterwork range mod backup mag
+dimwishlist:item=2778013407&perks=1354429876,1774574192#notes:baby version
 
 //Ammit
 dimwishlist:item=2119346509&perks=839105230,1885400500,1583705720,4293542123#notes:Craftable masterwork relod speed mod minor spec
+dimwishlist:item=2119346509&perks=1583705720,4293542123#notes:baby version
 
 //Come to pass
 dimwishlist:item=927567426&perks=839105230,3142289711,1428297954,2610012052#notes:Craftable masterwork stability mod minor spec
+dimwishlist:item=927567426&perks=1428297954,2610012052#notes:baby version
 
 //Sweet sorrow
 dimwishlist:item=1248372789&perks=839105230,3142289711,3400784728,4049631843#notes:Craftable masterwork handling mod minor spec
+dimwishlist:item=1248372789&perks=3400784728,4049631843#notes:baby version
 
 //braytech werewolf
 dimwishlist:item=2869466318&perks=839105230,1885400500,691659142,4082225868#notes:masterwork range mod minor spec
@@ -36,6 +40,9 @@ dimwishlist:item=2869466318&perks=1820235745,1774574192#notes:baby version
 
 //chroma rush
 dimwishlist:item=1119734784&perks=3250034553,3142289711,1820235745,3425386926#notes:masterwork reload speed mod minor spec
+dimwishlist:item=1119734784&perks=1820235745,3425386926#notes:baby version
+dimwishlist:item=1119734784&perks=839105230,3142289711,2779035018,3592538738#notes:masterwork range mod minor spec
+dimwishlist:item=1119734784&perks=2779035018,3592538738#notes:baby version
 
 //duty bound
 dimwishlist:item=435216110&perks=839105230,2420895100,3400784728,1354429876#notes:masterwork range mod backup mag
@@ -48,30 +55,59 @@ dimwishlist:item=1788603939&perks=839105230,1885400500,1820235745,4104185692#not
 
 //krait
 dimwishlist:item=2852052802&perks=839105230,2420895100,1820235745,124408337#notes:masterwork handling mod backup mag
+dimwishlist:item=2852052802&perks=1820235745,124408337#notes:baby version
+dimwishlist:item=2852052802&perks=839105230,1885400500,1583705720,124408337#notes:masterwork handling mod backup mag
+dimwishlist:item=2852052802&perks=1583705720,124408337#notes:baby version
 
 //scathlocke
 dimwishlist:item=602618796&perks=839105230,3142289711,1820235745,3425386926#notes:masterwork range mod backup mag
+dimwishlist:item=602618796&perks=1820235745,3425386926#notes:baby version
+dimwishlist:item=602618796&perks=839105230,3142289711,1820235745,1774574192#notes:masterwork range mod backup mag
+dimwishlist:item=602618796&perks=1820235745,1774574192#notes:baby version
 
 //seventh seraph
 dimwishlist:item=1561006927&perks=839105230,1968497646,3300816228,1546637391#notes:masterwork stability mod major spec
+dimwishlist:item=1561006927&perks=3300816228,1546637391#notes:baby version
+dimwishlist:item=1561006927&perks=839105230,1885400500,4071163871,4082225868#notes:masterwork stability mod minoe spec
+dimwishlist:item=1561006927&perks=4071163871,4082225868#notes:baby version
 
 //last breath
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,4104185692#notes:masterwork range mod counter balance
+dimwishlist:item=507038823&perks=3523296417,4104185692#notes:baby version
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903#notes:masterwork range mod counter balance
+dimwishlist:item=507038823&perks=3523296417,11612903#notes:baby version
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,1774574192#notes:masterwork range mod counter balance
+dimwishlist:item=507038823&perks=3523296417,1774574192#notes:baby version
 
 //tigerspite
 dimwishlist:item=640114618&perks=839105230,1885400500,1168162263,1015611457#notes:masterwork range mod backup mag
+dimwishlist:item=640114618&perks=,1168162263,1015611457#notes:baby version
+dimwishlist:item=640114618&perks=839105230,1885400500,1820235745,3523296417#notes:masterwork range mod backup mag
+dimwishlist:item=640114618&perks=,1820235745,3523296417#notes:baby version
+dimwishlist:item=640114618&perks=839105230,1885400500,1820235745,4104185692#notes:masterwork range mod backup mag
+dimwishlist:item=640114618&perks=,1820235745,4104185692#notes:baby version
 
 //age old
 dimwishlist:item=601592879&perks=839105230,679225683,3400784728,1015611457#notes:masterwork range mod backup mag
+dimwishlist:item=601592879&perks=,3400784728,1015611457#notes:baby version
+dimwishlist:item=601592879&perks=839105230,1885400500,2387244414,2848615171#notes:masterwork range mod dragonfly spec
+dimwishlist:item=601592879&perks=,2387244414,2848615171#notes:baby version
 
 //arc logic
-dimwishlist:item=2723909519&perks=839105230,3142289711,3643424744,4104185692#notes:masterwork range mod backup mag
+dimwishlist:item=2723909519&perks=839105230,3142289711,1820235745,4104185692#notes:masterwork range mod backup mag
+dimwishlist:item=2723909519&perks=,1820235745,4104185692#notes:baby version
+dimwishlist:item=2723909519&perks=839105230,3142289711,1820235745,3523296417#notes:masterwork range mod backup mag
+dimwishlist:item=2723909519&perks=,1820235745,3523296417#notes:baby version
 
 //arctic haze
 dimwishlist:item=20935540&perks=839105230,3142289711,1820235745,1546637391#notes:masterwork range mod backup mag
+dimwishlist:item=20935540&perks=,1820235745,1546637391#notes:baby version
+dimwishlist:item=20935540&perks=839105230,3142289711,1820235745,2848615171#notes:masterwork range mod dragonfly spec
+dimwishlist:item=20935540&perks=,1820235745,2848615171#notes:baby version
 
 //chrysura
 dimwishlist:item=1337707096&perks=839105230,3142289711,1168162263,2848615171#notes:masterwork range mod dragonfly spec
+dimwishlist:item=1337707096&perks=,1168162263,2848615171#notes:baby version
 
 //gnawing hunger
 dimwishlist:item=821154603&perks=4090651448,3142289711,2387244414,3425386926#notes:masterwork stability mod backup mag
