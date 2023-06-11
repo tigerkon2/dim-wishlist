@@ -161,6 +161,17 @@ dimwishlist:item=355382946&perks=,2779035018,4293542123#notes:baby version
 dimwishlist:item=392008588&perks=839105230,106909392,3619207468,831391274#notes:masterwork range mod minor spec
 dimwishlist:item=392008588&perks=,3619207468,831391274#notes:baby version
 
+//RUFUS'S FURY
+dimwishlist:item=484515708&perks=839105230,1885400500,1523832109,365154968
+dimwishlist:item=484515708&perks=,1523832109,365154968#notes:baby version
+dimwishlist:item=484515708&perks=839105230,1885400500,3523296417,831391274
+dimwishlist:item=484515708&perks=,3523296417,831391274#notes:baby version
+
+//POSITIVE OUTLOOK
+dimwishlist:item=491078457&perks=839105230,2420895100,2387244414,2048641572
+dimwishlist:item=491078457&perks=,2387244414,2048641572#notes:baby version
+
+//DARK DECIDER
 
 //end of Auto rifles
 
