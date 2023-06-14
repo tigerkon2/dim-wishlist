@@ -997,8 +997,8 @@ dimwishlist:item=3669616453&perks=1478423395,3796465595,3977735242,1275731761#no
 dimwishlist:item=3669616453&perks=,3977735242,1275731761#notes:baby version
 
 //roar of the bear
-dimwishlist:item=4009352833&perks=3525010810,3796465595,3977735242,2396489472#notes:masterwork blast radius mod boss spec
-dimwishlist:item=4009352833&perks=,3977735242,2396489472#notes:baby version
+dimwishlist:item=2231910050&perks=3525010810,3796465595,3523296417,3927722942#notes:masterwork blast radius mod boss spec
+dimwishlist:item=2231910050&perks=,3523296417,3927722942#notes:baby version
 
 //royal entry
 dimwishlist:item=2448907086&perks=1478423395,3796465595,3300816228,3927722942#notes:masterwork velocity mod boss spec
