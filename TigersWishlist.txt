@@ -547,8 +547,8 @@ dimwishlist:item=2306182339&perks=,3300816228,1546637391#notes:baby version
 //Hand connons
 
 //Austringer
-dimwishlist:item=3055790362&perks=3661387068,1885400500,3719974635,509594246#notes:PVP Craftable masterwork range mod targeting adjuster
-dimwishlist:item=3055790362&perks=,3719974635,509594246#notes:baby version
+dimwishlist:item=3055790362&perks=3661387068,1885400500,699525795,2846385770#notes:PVP Craftable masterwork range mod targeting adjuster
+dimwishlist:item=3055790362&perks=,699525795,2846385770#notes:baby version
 dimwishlist:item=3055790362&perks=3661387068,1885400500,1168162263,3425386926#notes:Craftable masterwork range mod minor spec
 dimwishlist:item=3055790362&perks=,1168162263,3425386926#notes:baby version
 
