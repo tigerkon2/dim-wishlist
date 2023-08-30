@@ -888,6 +888,9 @@ dimwishlist:item=2408405461&perks=,247725512,1015611457#notes:baby version
 //messenger
 dimwishlist:item=3658188704&perks=839105230,1885400500,247725512,3047969693#notes:masterwork range mod full auto
 dimwishlist:item=3658188704&perks=,247725512,3047969693#notes:baby version
+//updated
+dimwishlist:item=3796795102&perks=839105230,1885400500,247725512,3047969693
+dimwishlist:item=3796795102&perks=,247725512,3047969693
 
 //darkest before
 dimwishlist:item=2481758391&perks=839105230,1885400500,1820235745,3425386926#notes:masterwork range mod full auto
@@ -1326,6 +1329,10 @@ dimwishlist:item=4287947559&perks=,47981717,2679249093#notes:baby version
 //COMPASS ROSE
 dimwishlist:item=233896077&perks=1482024992,791862061,1631667848,4293542123
 dimwishlist:item=233896077&perks=,1631667848,4293542123
+
+//ASTRAL HORIZON
+dimwishlist:item=2653171213&perks=1332244541,3142289711,3161816588,2679249093
+dimwishlist:item=2653171213&perks=,3161816588,2679249093
 
 //end of Shotguns
 
