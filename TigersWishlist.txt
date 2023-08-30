@@ -181,6 +181,10 @@ dimwishlist:item=484515708&perks=,3523296417,831391274#notes:baby version
 dimwishlist:item=491078457&perks=839105230,2420895100,2387244414,2048641572
 dimwishlist:item=491078457&perks=,2387244414,2048641572#notes:baby version
 
+//LODBROK-C
+dimwishlist:item=2328531378&perks=839105230,2420895100,1354429876,365154968
+dimwishlist:item=2328531378&perks=,1354429876,365154968
+
 //DARK DECIDER
 
 //end of Auto rifles
